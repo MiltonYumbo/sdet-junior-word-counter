@@ -1,2 +1,22 @@
-# sdet-junior-word-counter
-Python application that processes a text file, calculates word and character counts, and generates a frequency ranking of words in descending order.
+# SDET Junior Word Counter
+
+Python script that reads a text file and displays:
+
+- Total number of words
+- Total number of characters
+- Word frequency ranking
+- 
+# Requirements
+- Python 3.x
+
+# How to Run
+
+1. Download or clone the repository.
+2. Open a terminal in the project folder.
+3. Run:
+
+bash
+python main.py
+
+
+Make sure that 'testing.txt' is in the same folder as 'main.py'.
