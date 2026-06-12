@@ -11,7 +11,7 @@ Python script that reads a text file and displays:
 
 # How to Run
 
-1. Download or clone the repository.
+1. clone the repository.
 2. Open a terminal in the project folder.
 3. Run:
 
@@ -19,4 +19,4 @@ bash
 python main.py
 
 
-Make sure that 'testing.txt' is in the same folder as 'main.py'.
+
